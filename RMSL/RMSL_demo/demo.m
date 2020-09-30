@@ -1,4 +1,4 @@
-%% LMSC (CVPR-17)
+%% RMSL (ICCV-19)
 clear;
 load('bbcsport_2view.mat');
 load('BBC_2view.mat');  % Initialisation of view-specific subspace representations
